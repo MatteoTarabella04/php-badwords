@@ -29,7 +29,7 @@ $text_censured = str_replace($word, $censured, $text);
       <div class="card">
          <div class="card-header">
             <h2>
-               Censured word with length
+               Default word with length
             </h2>
          </div>
          <div class="card-body">
