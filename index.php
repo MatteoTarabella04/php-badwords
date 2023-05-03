@@ -28,11 +28,12 @@
                   <label class="form-label" for="word">
                      Cesure a Word
                   </label>
-                  <input class="form-control" type="text">
+                  <input class="form-control" type="text" name="word" id="word">
                </div>
 
                <div class="mb-3">
                   <button type="submit" class="btn btn-primary">Censure</button>
+                  <button type="reset" class="btn btn-danger">Reset</button>
                </div>
             </form>
          </div>
