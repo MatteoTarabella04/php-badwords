@@ -10,7 +10,7 @@
 </head>
 
 <body>
-   <div class="container d-flex">
+   <div class="container mt-5 d-flex">
       <div class="card col-8 m-auto">
          <div class="card-header">
             <h2>Badwords</h2>
